@@ -52,15 +52,15 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-primary-foreground/80">
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0" />
-                <span>Tokyo, Japan</span>
+                <span>Neo LLC, Higashikomatsugawa 1-12-1, Edogawa, Tokyo</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 flex-shrink-0" />
-                <span>+81-3-1234-5678</span>
+                <span>+81-80-9718-5080</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 flex-shrink-0" />
-                <span>info@neo-cars.jp</span>
+                <span>neollcjp@gmail.com</span>
               </li>
             </ul>
           </div>

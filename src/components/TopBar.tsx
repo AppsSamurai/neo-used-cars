@@ -29,15 +29,15 @@ const TopBar = () => {
             <Clock className="h-4 w-4" />
             <span>Japan Time: {japanTime}</span>
           </div>
-          <a href="mailto:info@neo-cars.jp" className="flex items-center gap-2 hover:text-accent transition-colors">
+          <a href="mailto:neollcjp@gmail.com" className="flex items-center gap-2 hover:text-accent transition-colors">
             <Mail className="h-4 w-4" />
             <span className="hidden sm:inline">Send Email</span>
           </a>
         </div>
         <div className="flex items-center gap-6">
-          <a href="tel:+81-3-1234-5678" className="flex items-center gap-2 hover:text-accent transition-colors">
+          <a href="tel:+818097185080" className="flex items-center gap-2 hover:text-accent transition-colors">
             <Phone className="h-4 w-4" />
-            <span>+81-3-1234-5678</span>
+            <span>+81-80-9718-5080</span>
           </a>
           <div className="flex items-center gap-2">
             <User className="h-4 w-4" />
